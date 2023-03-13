@@ -1,6 +1,6 @@
 # Heart_Disease_Classification
 
-This repository contains code for (1) training a machine learning model for the prediction of heart disease (2) a Dash application to implement such a clinical decision support tool. 
+This repository contains code for (1) training a machine learning model (aiHeart) for the prediction of heart disease (2) a Dash application to implement such a clinical decision support tool. 
 
 Dataset used: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
